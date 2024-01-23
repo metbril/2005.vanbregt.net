@@ -1,0 +1,71 @@
+BODY, DIV, P, TH, TD, LI, DD {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10pt;
+  color: #000000;
+  font-style: normal; 
+}
+
+.titel,
+H1, H2, H3, H4, H5, H6 {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 16pt; 
+  color: #000000;
+  font-style: normal; 
+  font-weight: bold; 
+  text-transform: none
+}
+
+A:visited { color: #FF9999}
+A:active { color: #FF0000}
+A:link { color: #CC0000}
+A:hover { color: #990000}
+
+.splashtext {  color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold}
+
+.splashlink { color: #CC0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold}
+
+.geobar {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10px;
+  color: #FFFFFF;
+  font-style: normal; 
+  font-weight: bold;
+  background-color: #339933
+}
+
+.geobar A:visited, .geobar A:active, .geobar A:link, .geobar A:hover {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10px;
+  color: #FFCC00;
+  font-style: normal; 
+  font-weight: bold;
+  background-color: #339933
+}
+
+.branding, 
+.branding A:visited,
+.branding A:active,
+.branding A:link,
+.branding A:hover {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 10px;
+  color: #FFCC00;
+  font-style: normal; 
+  font-weight: bold;
+  background-color: #000000;
+  text-transform: none;
+  text-decoration: none;
+}
+
+.locatie { 
+  font-size: 8pt; 
+  color: #000000;
+}
+
+.disclaimer {
+  font-size: 8pt;
+}
+
+.meer {
+  font-size: 8pt;
+}
